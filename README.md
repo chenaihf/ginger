@@ -1,0 +1,4 @@
+# ginger
+# 使用flask框架写的api框架
+基于flask_httpauth的用户权限管理
+基于itsdangerous.TimedJSONWebSignatureSerializer实现的token生成器
